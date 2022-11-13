@@ -16,18 +16,18 @@
     "other": {}
   },
   "detail_settings": {
-    "sky": true,
+    "sky": false,
     "sun_moon": true,
-    "stars": true,
-    "rain_snow": true,
-    "biome_colors": true,
-    "sky_colors": true
+    "stars": false,
+    "rain_snow": false,
+    "biome_colors": false,
+    "sky_colors": false
   },
   "render_settings": {
     "fog_distance": 33,
-    "multi_dimension_fog_control": true,
+    "multi_dimension_fog_control": false,
     "dimensionFogDistance": {
-      "minecraft:overworld": 10
+      "minecraft:overworld": 0
     },
     "use_linear_flat_color_blender": false,
     "light_updates": true,
