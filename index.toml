@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "448244b77dbe6ff0ca01c4641a7a8a049bbab078eeeb7c921180e59ca1c7e51a"
+hash = "981083f8f5603834f30626aef8dcac79081b97a967cff77dfce6057dc9ba4e71"
 metafile = true
 
 [[files]]
@@ -211,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "f29314b6e27525761a07f7b74802818ce3da9c51c9f6d21cb81f870121e57db2"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "802880a54a5f68cd1464be842acd9a7d474a31284de1529f67366a24c1e29466"
 metafile = true
 
 [[files]]
@@ -785,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "269a3b3653fbb318d2e65c4c6ee8af89e8fadad1ab226462883c5c96b4bd4813"
+hash = "e75824edb63e47ac4e9d57c8a1305c8d5ffd860f3c38f7b3c0e585732f5818d6"
 metafile = true
 
 [[files]]
@@ -795,7 +800,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "9d53a86abc4a65b795c36bf4588b4d86ca12abddedfa0a0be03967294ad09997"
+hash = "a8212f199c04e1648b210653fda43a17d2f79063be3ca8587fc5ef68235e7bc3"
 metafile = true
 
 [[files]]
@@ -835,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures.pw.toml"
-hash = "867e7c54bb1c63a993e1cbead0d89b23ca0da4d2b2260fa5df522062e99d5bae"
+hash = "4f01e07f08f37186d5db5e0fe1d9c756faff0784399e906e6263b6bef7e7cde2"
 metafile = true
 
 [[files]]
@@ -1001,6 +1006,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "0f777c428a4899af281ecec4b01970d928a5004f54623c6da7bd2bd807d2cfe6"
+metafile = true
+
+[[files]]
+file = "mods/wthit-forge.pw.toml"
+hash = "f43204af9654d472c45ae9baa0552ca4c92e00324b0dfc65b2cc2c9e79150fb3"
 metafile = true
 
 [[files]]
