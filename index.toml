@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".packwizignore.txt"
+hash = "7adfaf00b7a3df0ded9e78c38675aef1e2f941a6d14b1b72ad57300534a06a7d"
+
+[[files]]
 file = "config/ChickenChunks.cfg"
 hash = "56eba4fbecafd76d33e3ef3ec278f0b298df2b1312a61ca70559424b4f3dc552"
 
@@ -1190,11 +1194,6 @@ hash = "5ac1e5d4e3e3e786aa8baab5bd9a776dba2f3ed071ef4b27437fc22b5327e4c0"
 metafile = true
 
 [[files]]
-file = "mods/allthecompressed.pw.toml"
-hash = "e0e8c672a37386910bf9fa13d3926f0fc40a8eb5449350f43d9bb462b20c96f4"
-metafile = true
-
-[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "448244b77dbe6ff0ca01c4641a7a8a049bbab078eeeb7c921180e59ca1c7e51a"
 metafile = true
@@ -1231,7 +1230,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "24a58b8af2cb8794bbf05193172bd2cd3799a8fcc38bd2471527ce7349effce2"
+hash = "ca5775104714b3a090e713fc649cef3985007eea5eb1b4ddf49407dbeae10acb"
 metafile = true
 
 [[files]]
@@ -1276,7 +1275,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "f7e82243bf2ed1195204aed926e14c73a78e51d78d58528753c4ad6a3383fd6d"
+hash = "c75e3e0e5d526f4cbef340a56d252f3259b78e0fe44cdddd41875b0e1311c948"
 metafile = true
 
 [[files]]
@@ -1531,7 +1530,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "89353483616d875ffa5b056d365d0e6efbe128a0aa0ce7fc22c8dbfde9263489"
+hash = "05129b4e4508a24d9a1caf1ca025e70a289aa92f57794445ed07bedd21aa38ae"
 metafile = true
 
 [[files]]
@@ -1731,7 +1730,7 @@ metafile = true
 
 [[files]]
 file = "mods/libx.pw.toml"
-hash = "237044bd45a014019a301acfe40f3a673b3957bc84930d68ffa823ba1d4024a4"
+hash = "fb537f8737c8ee73a27c661ada6636b972a9a580dfd989bd1eabbec50b97a901"
 metafile = true
 
 [[files]]
@@ -1811,7 +1810,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "defab99dd482c1a1c0cce7b250fd2a7371806344d02a499cfadcad0fbd7499bc"
+hash = "269a3b3653fbb318d2e65c4c6ee8af89e8fadad1ab226462883c5c96b4bd4813"
 metafile = true
 
 [[files]]
@@ -1891,7 +1890,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "47820083c608f9c47f3a4975c8b1e0bafc0a3be11c4283aa92cbec010a8d666a"
+hash = "881fe10451c50b62b371a333d77b5d611b7bf9b1e2dac85c73702554c0752789"
 metafile = true
 
 [[files]]
@@ -1951,7 +1950,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "abf9473faba59cf2fd476be35b421acd35bf1af2380d68cd5b6a63adb57f8c74"
+hash = "67ba28f3bcfec63cbb7e70b29f15d639b4339cca55965842848ee9e9268ddfc3"
 metafile = true
 
 [[files]]
@@ -1966,7 +1965,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "a4e4cabab7b3debb9ee5cb548fee5a71a9cd61f9819f270c8d64ef71d94fd243"
+hash = "24e663edf86f41d3770b0f420e1f7b70ad0e1a46d726997fb38a188c9f4e078f"
 metafile = true
 
 [[files]]
