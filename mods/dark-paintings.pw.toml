@@ -1,0 +1,13 @@
+name = "Dark Paintings"
+filename = "DarkPaintings-Forge-1.19.2-13.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3faf383241b472cbfaac1f5f99c25ce3c004af91"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3943033
+project-id = 377281

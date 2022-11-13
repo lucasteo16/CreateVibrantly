@@ -1,0 +1,13 @@
+name = "Portable Crafting Table"
+filename = "PortableCraftingTable-1.19.2-3.1.6-[FORGE].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eebc2883ed886b5485bef2c67f7e3b0a6fb07bf9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3930931
+project-id = 454798

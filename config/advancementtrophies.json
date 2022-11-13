@@ -1,0 +1,12 @@
+{
+  "particles": true,
+  "showNames": true,
+  "excludedNamespaces": [
+    "vanillatweaks"
+  ],
+  "excludedAdvancementResourceNames": [
+    "example:category/name",
+    "minecraft:adventure/throw_trident"
+  ],
+  "showOutdatedMessageOnJoin": true
+}

@@ -1,0 +1,13 @@
+name = "Simply Houses"
+filename = "SimplyHouses-1.1.3-1.19-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "00d1f24135a5302df2a2f2ca5770326da5c67ed6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3854861
+project-id = 630834

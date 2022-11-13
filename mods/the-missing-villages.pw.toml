@@ -1,0 +1,13 @@
+name = "The Missing Villages"
+filename = "themissingvillages-2.0.0-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61166a57470366b5a1c1576229dc2cf16c46dff4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4005214
+project-id = 674454

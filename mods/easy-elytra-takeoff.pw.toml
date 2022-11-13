@@ -1,0 +1,13 @@
+name = "Easy Elytra Takeoff (Forge)"
+filename = "easyelytratakeoff_1.19.2-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a8cbf50b6e57f524b83dc1faf8c56edb6ce8331"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3969772
+project-id = 347898

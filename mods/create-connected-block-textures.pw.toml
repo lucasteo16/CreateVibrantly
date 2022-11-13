@@ -1,0 +1,13 @@
+name = "Create: Connected Block Textures"
+filename = "create_connected_blocks-0.5.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c93535841d78aab48eb3cf28fccb94be20c655ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4049771
+project-id = 678956

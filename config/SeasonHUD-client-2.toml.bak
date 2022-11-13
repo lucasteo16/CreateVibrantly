@@ -1,0 +1,13 @@
+
+["Configs for SeasonHUD"]
+
+	["Configs for SeasonHUD"."HUD:"]
+		#Enable the Debug hud for? 
+		# (true/false)
+		enable_debug_hud = false
+		#Change the side of the screen the Season HUD appears on
+		#  0 = Right (default)
+		#  1 = Left
+		#Range: 0 ~ 1
+		hud_position = 1
+

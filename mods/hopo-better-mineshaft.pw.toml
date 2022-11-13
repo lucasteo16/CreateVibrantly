@@ -1,0 +1,13 @@
+name = "Hopo Better Mineshaft"
+filename = "HopoBetterMineshaft-1.19-1.1.5b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c6eae92d52e83a8e76e75c7591c0015b8561f14"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3925895
+project-id = 623723

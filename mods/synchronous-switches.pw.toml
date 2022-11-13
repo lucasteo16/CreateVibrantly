@@ -1,0 +1,13 @@
+name = "Synchronous Switches"
+filename = "syncswitch-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7fa711a4b421fbba8f182687eac2f722d7c127bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3984428
+project-id = 665793
