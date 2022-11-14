@@ -7,7 +7,7 @@
 		on_top = true
 		# The distance from the top or bottom of the screen, in pixels.
 		#Range: 8 ~ 256
-		distance = 24
+		distance = 32
 		# Hide waila/hwyla/jade popups while plaques are showing.
 		hide_waila = false
 		# If plaques should show for task advancements (normal advancements).
