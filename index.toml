@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/advancementplaques-common.toml"
-hash = "3f460946e230a24abc6d61fc7b99cebae23dccc9ae38f0f39cac5735e335c52d"
+hash = "0cc5ae411cfccd5f39ef2d8967ab6d3a40261d7fbb2ca6d8530f2abcea4f085f"
 
 [[files]]
 file = "config/canary.properties"
@@ -91,6 +91,10 @@ hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
 [[files]]
 file = "config/rubidium-options.json"
 hash = "af08928fda0807c991cff40de5a17abcc67253aec8228207b26c02d6c568b47a"
+
+[[files]]
+file = "config/scalinghealth-client.toml"
+hash = "1e00e2b28fa043ddb2f2250c160cc95337997269f58f608ca013d8c35ce05d8a"
 
 [[files]]
 file = "config/smoothboot.json"
