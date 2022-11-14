@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/advancementplaques-common.toml"
+hash = "3f460946e230a24abc6d61fc7b99cebae23dccc9ae38f0f39cac5735e335c52d"
+
+[[files]]
 file = "config/canary.properties"
 hash = "a20d2c44c3aa09d96fcf4a7c8850fb34a7b914e68b85ef1c31c14104fc8663e3"
 
@@ -875,7 +879,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "881fe10451c50b62b371a333d77b5d611b7bf9b1e2dac85c73702554c0752789"
+hash = "f0cc8b06148cfcebf0f8db1b0561a5ebc6c6f4063a5c027fc1c24f9b53c5ef36"
 metafile = true
 
 [[files]]
