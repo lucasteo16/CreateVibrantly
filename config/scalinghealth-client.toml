@@ -100,10 +100,10 @@
 			anchor = "BOTTOM_LEFT"
 			#Fine-tune the difficulty meter's position
 			#Range: > -2147483648
-			offsetX = 5
+			offsetX = -3
 			#Fine-tune the difficulty meter's position
 			#Range: > -2147483648
-			offsetY = -5
+			offsetY = 3
 
 		[difficulty.meter.text]
 			#Scale of text on the difficulty meter

@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/advancementplaques-common.toml"
-hash = "0cc5ae411cfccd5f39ef2d8967ab6d3a40261d7fbb2ca6d8530f2abcea4f085f"
-
-[[files]]
 file = "config/canary.properties"
 hash = "a20d2c44c3aa09d96fcf4a7c8850fb34a7b914e68b85ef1c31c14104fc8663e3"
 
@@ -53,6 +49,10 @@ file = "config/gamemenumodoption-client.toml"
 hash = "08522bb2da012915e74a41d9b73068b49b072159eea94a0f655f728748a4fdd3"
 
 [[files]]
+file = "config/inventoryhud-client.toml"
+hash = "44105663ed52e56b883680a087a54efefe877633cb2abba03496b9718cca784f"
+
+[[files]]
 file = "config/itshallnottick-common.toml"
 hash = "e6073d21f51d475e3a192fb17d0fc9f7eaf3dffaae7a5bcf5aa1f76c1af8d334"
 
@@ -94,7 +94,7 @@ hash = "af08928fda0807c991cff40de5a17abcc67253aec8228207b26c02d6c568b47a"
 
 [[files]]
 file = "config/scalinghealth-client.toml"
-hash = "1e00e2b28fa043ddb2f2250c160cc95337997269f58f608ca013d8c35ce05d8a"
+hash = "4aa8fee506ff3ba86cb2e7b52c10a1c981d6dd27830121a844c60e9c9f402d71"
 
 [[files]]
 file = "config/smoothboot.json"
@@ -125,6 +125,18 @@ file = "config/tr7zwDonorSettings.json"
 hash = "b4f660488920eac2dffd3c2208d281e92e1444e6f9c7808461a2687347c787d5"
 
 [[files]]
+file = "config/waila/blacklist.json"
+hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "b526c4fcce98ab8b6d48709835ec54dca6b603bbd277f82abec555876defd8f7"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "e60de9a9be2e7e4370ff0b47e4d33c455fb45d29c4065db3078a63d0f876ee45"
+
+[[files]]
 file = "config/waterdripsound-client-1.toml.bak"
 hash = "09d637baa226275f201f2adbade0498545de0d1a44a6077ad2e633d95a4a296c"
 
@@ -150,11 +162,19 @@ hash = "09d637baa226275f201f2adbade0498545de0d1a44a6077ad2e633d95a4a296c"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "e7fc2bf5914e956b43c7f5afc427d7ad11584dc15cde16f089e8cd08afced3bc"
+hash = "09beef1698606db22782e71e3adbc183d18393afae8af5f1dec687cd8c3e1fb7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "0ad0176542d0496a3e1c2ca7d9cd03f9863021f2be07c072d2664ce7f64f9bde"
+hash = "2034cc1c11c7dd51d2fe29f45f1f083a3accf037b898ff84feb895e3eb2f8f3e"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "072f0623668becda41fab0bfcdf28893310133737c8318210fa8d236e2d5b73a"
 
 [[files]]
 file = "mods/additional-lanterns.pw.toml"
@@ -319,6 +339,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "75462e2eafe9f4abe0a66d36c6681c8b557930ea0bae4ebd234c9a99a5e756b4"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "7888581aab75ca835f111ff4d8072e3c2aa4338c3b1bf5d760ca5a4df43b8dd0"
 metafile = true
 
 [[files]]
@@ -502,11 +527,6 @@ hash = "e6a065afb79249eb86bbc6a1885d71bff74d7c62302fcc7106f89b0e6112fd87"
 metafile = true
 
 [[files]]
-file = "mods/edivadlib.pw.toml"
-hash = "38d1fd4c49da8da6251c0a481e8f93ff06430f227411d214c66b5a397753e3e8"
-metafile = true
-
-[[files]]
 file = "mods/effective-forge.pw.toml"
 hash = "5f0a314fe6cf3ade2193f54bfe2af317afcd7ff68bdd6ea8d397018479a88b13"
 metafile = true
@@ -667,6 +687,11 @@ hash = "b5eebcb16bafdfc4c962559ab7c5bd77a817e8622a5d1ac635633f0780c96c5d"
 metafile = true
 
 [[files]]
+file = "mods/inventory-hud-forge.pw.toml"
+hash = "10f3b57f630b0521a9104790cb481ca2e29b62016c5c939c437f55f2c442b1c7"
+metafile = true
+
+[[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "0b2c570acfd6375e2aa8f649cb26384cf1194e9966dd8c7d2df04399a071f53c"
 metafile = true
@@ -684,6 +709,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "9bdd93bf8a82632caee803db273509080250cd347307e1fa57f240631f07d67f"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "849d628455ca02d0216fe4321e5f4cc47498377738eebb0c7bfad763fee01d87"
 metafile = true
 
 [[files]]
@@ -997,6 +1027,11 @@ hash = "3e6186c8bae1d081558593c4ce3385579f6fb081ae4c66d460fe8e535eb3bce5"
 metafile = true
 
 [[files]]
+file = "mods/trading-post.pw.toml"
+hash = "f79b1fd2112a3081632ad7918dd7499a048601cb092fb3ff7a54298dd06da2b8"
+metafile = true
+
+[[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "1b2f9c5d163844dd2726d1fb2467a78214636cafab08bb0c293db4e8b25f45aa"
 metafile = true
@@ -1077,6 +1112,10 @@ hash = "ca615db076e1af4d04f1230aa775a826c386e366198c55d5a67e827a29cd29fd"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "dd84cacb16cd65df342e91f16b2d1b92dd3db7dda2b4e4d27125ddb39bdbdf77"
+
+[[files]]
 file = "resourcepacks/Infernal Resources.zip"
 hash = "d8f9ad919602ab59a672e8c9efc34a2e6c402c2436471e3ce7faf4134a41c466"
 
@@ -1088,3 +1127,11 @@ hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
 file = "resourcepacks/towers-of-the-wild-reworked-datapack.pw.toml"
 hash = "ee908f7e07bf36a6c82b2443414229afbb6f06547a86da582ae9a608e363d4b7"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r1.3.2.zip"
+hash = "523e55a1b5a39d4f6c38b30b1384167ba663cf1a7281249bb35ca9a65f79b9b3"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r1.3.2.zip.txt"
+hash = "044ebc844e74b66d755cb86dede87dddfd05fc3974a637e716989292a5b2cc26"
