@@ -203,12 +203,12 @@ metafile = true
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
-hash = "f6c466b990806a78b1963f838d1d64d2f5fe3cee1d1894c6a21880ba614110d1"
+hash = "c9e266f2021268c9629473a3f92edd5866c7154ec349bb12daf6e0b383d36644"
 metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "afbe6104564d60ffbbcc229b2576ddad0e9289a3ee2fe7b3c4a37e83db5f33a5"
+hash = "be4e911c197a1bac03e36d885a7bed3e9571fa326cfabdfd9b8f3778de034cf7"
 metafile = true
 
 [[files]]
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "d703869d986cb0e9f945436d47627906c79ca25c83bd6369d4eb2114a22f876a"
+hash = "71716e8cd766416727f596ac6763694d3437e7f0847bb6ed4a912494187542f8"
 metafile = true
 
 [[files]]
@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "d41fa2d6a03061888fdc52d6d2ea651d4edf05df838bad5a607f75290852c5ec"
+hash = "b6cbd82f22a7deaedd9b7a1cea32a83daf0b06d8dc7ac5b1d630ed7a856a69f5"
 metafile = true
 
 [[files]]
@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
+hash = "ff54075e027c8b92cd02c42e5030108cffb34358b92fd3ab4adcaf47c9d5b898"
 metafile = true
 
 [[files]]
@@ -497,13 +497,8 @@ hash = "21312550ea6783eb5de9ae365018f11594b5513aefaf64d5efed8e1459417ed7"
 metafile = true
 
 [[files]]
-file = "mods/drp-global-datapack.pw.toml"
-hash = "bb22a44615e4d159c43e85a1aa2325ffcd0930182418a32269f1ad12fda251bd"
-metafile = true
-
-[[files]]
 file = "mods/durability-tooltip.pw.toml"
-hash = "ebb2927964a249fc923bccc1a8645566fa7a41eb303a47546976efa58326ede8"
+hash = "1dfc001ea60c20a7d091284f2e071064f19725684cfa61bbe34ef991ff5ae456"
 metafile = true
 
 [[files]]
@@ -528,12 +523,12 @@ metafile = true
 
 [[files]]
 file = "mods/effective-forge.pw.toml"
-hash = "5f0a314fe6cf3ade2193f54bfe2af317afcd7ff68bdd6ea8d397018479a88b13"
+hash = "9ed8c47da77c2795711a15fb742530328de8baf7cacbe02fca6ed15d55bdacce"
 metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "05129b4e4508a24d9a1caf1ca025e70a289aa92f57794445ed07bedd21aa38ae"
+hash = "205e33552c1538aeaec87bebad41cc41bacfc841ed0201a37f68fa2f72debcfa"
 metafile = true
 
 [[files]]
@@ -548,7 +543,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "9c164062ffd0c84aca4fd3a76f0542f24c1faffee1f60f318f67c2933344f441"
+hash = "2862eaffcb20700cd2036e54339c94e49776c929dd5e46ec338b142bccce4788"
 metafile = true
 
 [[files]]
@@ -573,7 +568,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "93c7e8b8746b2fb88a262b13234ad6d1800aa54264d12ae2fa5ddbd8e2b85a14"
+hash = "58ecf8f9d6818c9c64c30decdd0126c2b3001539b56e001cf6120879863e8a05"
 metafile = true
 
 [[files]]
@@ -613,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "3fbb7fe2cdb9cc4c1307a925debf57b03fe6e383c36b01e0ed729ea995a2927a"
+hash = "3dbc35139a8ca2c8a0b11c8df9fcca3ee48b6e545c593b0256070cdfd231deda"
 metafile = true
 
 [[files]]
@@ -628,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamemenumodoption.pw.toml"
-hash = "a369f7aefec88143a1978559f80266d41aecdb2ad81066932648ad8feaf0c815"
+hash = "4cb8dcd8b2756e59b7f9ddb20d1b8d06f8264a2f03245b92030dd38a1000a62b"
 metafile = true
 
 [[files]]
@@ -668,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "mods/illuminations-forge.pw.toml"
-hash = "dbd150dbc7e57435ab375eeca7402400a0588071e551a5121988f5fefc2fed48"
+hash = "08c41a8b8f42abab650ecd58b66489312527d6da915c1f640b8882121091a120"
 metafile = true
 
 [[files]]
@@ -688,7 +683,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
-hash = "10f3b57f630b0521a9104790cb481ca2e29b62016c5c939c437f55f2c442b1c7"
+hash = "05f5d666442c3257a0a99f64c9155dd5bb99de4017458e131064aa896208d9d9"
 metafile = true
 
 [[files]]
@@ -728,12 +723,12 @@ metafile = true
 
 [[files]]
 file = "mods/just-zoom-forge.pw.toml"
-hash = "22267079d5b777a0d8da7ec58707613711689dbb2902502b996658ec1a14bd8a"
+hash = "3eb92d7882fe2c41446301181df65fc2274d347e48785d0f037ee952bc7f07fe"
 metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "aa5eec5529d695d1f73293ff6574d06c4dccd4b610f3ff4f9be40dd985faede5"
+hash = "8a2e3e4fc1c2e6a1cec2c996be799d65ccf1e7273201b0921408419d4feec668"
 metafile = true
 
 [[files]]
@@ -753,7 +748,7 @@ metafile = true
 
 [[files]]
 file = "mods/light-overlay.pw.toml"
-hash = "f43d81c21ee75f1ca04865958e5c3da4971f0ff824b82359e85ce5f765a9b92f"
+hash = "3b8e6688752232e263d2b3dec11e88d7605321702985feb4d5436472886438c5"
 metafile = true
 
 [[files]]
@@ -773,7 +768,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
+hash = "65847d25954b387800944c72231b44cf3eeb8ebc2f43238f39ccbd76cf9c6a4d"
 metafile = true
 
 [[files]]
@@ -793,7 +788,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "b1cee41a780aa8fbb9367dab6024a78c2b8e5a257ebed5d2754ff27f816d9cdd"
+hash = "8b0ea61890bb19ca5d5d38a77fb8da7b8e9eaaf06293323b23c7feb7082c076a"
 metafile = true
 
 [[files]]
@@ -808,7 +803,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "bc447d7a2814de49767f964f2fc07e8888cc22a38ea8d935a08f6cc2a4efdcf3"
+hash = "d4c02cef87a41b765c51465ac31c9e84384da19b30e908cd83409117f97f306c"
 metafile = true
 
 [[files]]
@@ -853,7 +848,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps-forge.pw.toml"
-hash = "ce696abf2e58e87eed2840f8b3580005706e21a0230e1392036a46d56cffc85f"
+hash = "62d9131fe6a7e3e49eeea62f11db006460951fb1008fc789491ffc2755f1adf0"
 metafile = true
 
 [[files]]
@@ -883,12 +878,12 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "602ee6d1fdcbce1d188a6ae15dd845f07960dd30d958ecfd18fde96ba6aa5e0b"
+hash = "0763e54960081c77daf0d4eca5d7f7e8957190d5e7bd4d1cdbd746c10c60ccd3"
 metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "d6a02b617d73812b20a2f8e483ea9791ecbf8de2649611bde123b6bb5d9ce365"
+hash = "8a30d29e53a171b3fd6d12f0fbcd71fd6d4cc849f92eb4cbcf9dfb070c4e6138"
 metafile = true
 
 [[files]]
@@ -903,7 +898,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud.pw.toml"
-hash = "4294a9381052525b2d25a6259eca64a1ae4606eedfaa4decaa9de7e28d4ed2c5"
+hash = "14e1880e59d5d3b9b6dfdd2dfc6b77e38a873e300462b474837177adc360eee1"
 metafile = true
 
 [[files]]
@@ -948,7 +943,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "6ee681b542048f8e1c1ad0108fa4faec725eb19640631c378efd28df0356c7ec"
+hash = "8f52049b9b9d6831de22434d7a8c8047f35bb695a156ed61f7355de58d816437"
 metafile = true
 
 [[files]]
@@ -988,7 +983,7 @@ metafile = true
 
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
-hash = "75d38018af61e29e0f583a91896e4e800e5ef00738e25fd7d31cd929ea2510f3"
+hash = "4d1b43a4c8b5330318fffee09d14af4c1dce24b6c371901924181f064e1b5965"
 metafile = true
 
 [[files]]
@@ -1122,11 +1117,6 @@ hash = "d8f9ad919602ab59a672e8c9efc34a2e6c402c2436471e3ce7faf4134a41c466"
 [[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
 hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
-
-[[files]]
-file = "resourcepacks/towers-of-the-wild-reworked-datapack.pw.toml"
-hash = "ee908f7e07bf36a6c82b2443414229afbb6f06547a86da582ae9a608e363d4b7"
-metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r1.3.2.zip"
