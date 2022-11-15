@@ -973,7 +973,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "67ba28f3bcfec63cbb7e70b29f15d639b4339cca55965842848ee9e9268ddfc3"
+hash = "e29f80756401a1ecc2801d306ad8f3841df7029a7fb9bd9039cf6c2f9fbf5803"
 metafile = true
 
 [[files]]
