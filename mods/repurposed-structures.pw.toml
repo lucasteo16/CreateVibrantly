@@ -1,13 +1,13 @@
 name = "Repurposed Structures (Forge)"
-filename = "repurposed_structures_forge-6.3.6+1.19.2.jar"
+filename = "repurposed_structures_forge-6.3.7+1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4d2d2e1eeeb5c50e3302c37dc5cc07fddc8777e9"
+hash = "f38e1e4fea66183dac0839b9a0e364137773d60e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4084162
+file-id = 4087774
 project-id = 368293
