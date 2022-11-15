@@ -187,6 +187,11 @@ hash = "d63497db540e470dc7499496def6ad4ff6f5799c1ac26b757f67af64af6031cc"
 metafile = true
 
 [[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "e21f860ab436aa4c136797ba128cc6ec71b3149846c1cefca1cf308771628494"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "7625fd02a8edcfaf66ae149456ba29e237a4740b6f2540fd2886a0ecaca189b7"
 metafile = true
@@ -949,6 +954,11 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "84b4303c211a5837819e5b88b8d131b659820c59dd8136fb8a69859c29922345"
+metafile = true
+
+[[files]]
+file = "mods/structure-compass.pw.toml"
+hash = "b9b25e294fd6dfd5d7830c69ffff9b87ffb1be44cd495c43d8957a20756f6a1a"
 metafile = true
 
 [[files]]
