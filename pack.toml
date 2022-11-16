@@ -1,12 +1,12 @@
 name = "Create Vibrantly [Forge]"
 author = "actually_aenzo"
-version = "1.1.1"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0568ce7d5cc5a1cff883a0287e7babcf0f1d73fbacc866a4f1b7de3ded559765"
+hash = "14f39be44af8bbc3b67903a9b1d5cd3423487602bc7a2c9bb4b7e2ad93f71ede"
 
 [versions]
 forge = "43.1.52"

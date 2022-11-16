@@ -187,11 +187,6 @@ hash = "d63497db540e470dc7499496def6ad4ff6f5799c1ac26b757f67af64af6031cc"
 metafile = true
 
 [[files]]
-file = "mods/aeinfinitybooster.pw.toml"
-hash = "e21f860ab436aa4c136797ba128cc6ec71b3149846c1cefca1cf308771628494"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "7625fd02a8edcfaf66ae149456ba29e237a4740b6f2540fd2886a0ecaca189b7"
 metafile = true
@@ -219,16 +214,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
-metafile = true
-
-[[files]]
-file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "caa31ec7fff3d089bdb66457e3195ede87985d854d4052139f67fa75213b7d30"
-metafile = true
-
-[[files]]
-file = "mods/applied-energistics-2.pw.toml"
-hash = "ca1d519332fb47972436916bf9bf8c7b4e6ce2146f056ec3c71d935e8fee5b70"
 metafile = true
 
 [[files]]
@@ -877,8 +862,28 @@ hash = "93d26cc7058875c3326561c327b8591635600e7cad4f5248fdd6500a305d2ecd"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "76c979281f6f7b7ad2ad42f362184b2d52beb73e2a17bfe4a0eedcb1a684a098"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "cf08be979d4f5da28cbee7e74dc4dd514e70e953f38e3cab05401a37aa9689c9"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures.pw.toml"
 hash = "831d2e804ec0878fea67c8c47fe3128d4fd1e4e650b52bc061fa2830331d5ddf"
+metafile = true
+
+[[files]]
+file = "mods/rs-requestify.pw.toml"
+hash = "d915c31f85d2d02bb621831a8a733b36ef0e7379303ce8fda6ca1d6baabdd8cb"
+metafile = true
+
+[[files]]
+file = "mods/rsinfinitybooster.pw.toml"
+hash = "8146860e9582a3afffdacfc4ec5a39afe1c12dc83e4a61db60213ae324f2144a"
 metafile = true
 
 [[files]]
