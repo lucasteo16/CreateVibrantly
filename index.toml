@@ -538,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "94fd82443a14819dca7a16d696c71d91ebbbcb883c4767cfbc4961de329de893"
+hash = "242b6fffdda44574306766d68ce440c5c1f0d81b03a13b929ea8edc68f6a720f"
 metafile = true
 
 [[files]]
@@ -794,6 +794,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "d4c02cef87a41b765c51465ac31c9e84384da19b30e908cd83409117f97f306c"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "a012a3771db29dd4b5ce97844e572d53bddbd704699a13624c3a2861432b5e62"
 metafile = true
 
 [[files]]
