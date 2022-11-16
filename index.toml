@@ -508,7 +508,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-anvils.pw.toml"
-hash = "e6d0e06c1fd902438a3e8c1c8b485adbccb60d825267dbe6da95f33825b84a40"
+hash = "a3c007e87a53af5dc9c09657386a2c612923ab163ad5fe014f248bf3cca7ebc4"
 metafile = true
 
 [[files]]
@@ -973,7 +973,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "e29f80756401a1ecc2801d306ad8f3841df7029a7fb9bd9039cf6c2f9fbf5803"
+hash = "be3060a43501f1cf0063b2c85b824c833329571425df1761f570bb0bff113aa3"
 metafile = true
 
 [[files]]
