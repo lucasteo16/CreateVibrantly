@@ -252,11 +252,6 @@ hash = "71716e8cd766416727f596ac6763694d3437e7f0847bb6ed4a912494187542f8"
 metafile = true
 
 [[files]]
-file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "37c239ba03cbd5c0ca0d0aced1c8778979b5f15dde4be6d120cc8cd9fa60abb2"
-metafile = true
-
-[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "b6cbd82f22a7deaedd9b7a1cea32a83daf0b06d8dc7ac5b1d630ed7a856a69f5"
 metafile = true
@@ -342,18 +337,8 @@ hash = "7888581aab75ca835f111ff4d8072e3c2aa4338c3b1bf5d760ca5a4df43b8dd0"
 metafile = true
 
 [[files]]
-file = "mods/construction-wand.pw.toml"
-hash = "4f69aaaafb229e3063f529b5402a8c74fe44bd01fd276022773b983f84a3d719"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "ff54075e027c8b92cd02c42e5030108cffb34358b92fd3ab4adcaf47c9d5b898"
-metafile = true
-
-[[files]]
-file = "mods/cooperative-advancements.pw.toml"
-hash = "13f9d5505c4e67ccabb839671729ee00edcf2061ce5345fc08dc4a69aca0df1d"
 metafile = true
 
 [[files]]
@@ -454,11 +439,6 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "704f9ed273693345fcf3c81e2797beb2488d30dc13b7e7d8fda1b0fa2e5fc3a6"
-metafile = true
-
-[[files]]
-file = "mods/creatures-and-beasts.pw.toml"
-hash = "c29b66c4b0324f3691fb7ac396a733db16911381a3f2d68ec9989e908f03174e"
 metafile = true
 
 [[files]]
@@ -812,11 +792,6 @@ hash = "a012a3771db29dd4b5ce97844e572d53bddbd704699a13624c3a2861432b5e62"
 metafile = true
 
 [[files]]
-file = "mods/openblocks-elevator.pw.toml"
-hash = "13e10e5493f19da1737436c19899a26845c9c965f1b00ba30ee48863f44ae324"
-metafile = true
-
-[[files]]
 file = "mods/ore-excavation.pw.toml"
 hash = "f0584d99220f2d315552d96b87d4f13e50034a40353b95d1f2b8fda68effab85"
 metafile = true
@@ -844,11 +819,6 @@ metafile = true
 [[files]]
 file = "mods/portable-crafting-table.pw.toml"
 hash = "11601510abd35d555b998ebc87e4bbb148c0b8b9cd9ef3c82c22d264f32d8f81"
-metafile = true
-
-[[files]]
-file = "mods/portable-hole.pw.toml"
-hash = "1a40129cdc8d808262393d7426864a344fdd5025a44e437221e1db0ba2bc772b"
 metafile = true
 
 [[files]]
@@ -997,16 +967,6 @@ hash = "5737a971ff7d757ef27defc4e64aa3f8a052f4a594b46179e8f58584ab7f51da"
 metafile = true
 
 [[files]]
-file = "mods/synchronous-switches.pw.toml"
-hash = "bf84e20cea2cf4d6311ffcf49a6c683b1de50f8ed5ad454852e0b7142ea9c46f"
-metafile = true
-
-[[files]]
-file = "mods/tameable-beasts.pw.toml"
-hash = "5a909e0a6c73ef79873e579a23e003e24b0ecc85e054ddda411ee7f7c5b4ea56"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "24e663edf86f41d3770b0f420e1f7b70ad0e1a46d726997fb38a188c9f4e078f"
 metafile = true
@@ -1027,18 +987,8 @@ hash = "21506636a13bdb22d0d4c464fb142b5f2947dc139e00b2f89d395e209b3b8cd1"
 metafile = true
 
 [[files]]
-file = "mods/tool-belt.pw.toml"
-hash = "5db8a51add1e243e5e6510e8d9c6baf2b5d8dc5861cb89b707b3a3c9e53efa6d"
-metafile = true
-
-[[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "eb445d9519a2a81b60706da33663b2fc8201de6d486d98489a0f97fa1b0b00a9"
-metafile = true
-
-[[files]]
-file = "mods/tough-as-nails.pw.toml"
-hash = "ee280fb779044cdf3cc2790e3afc11d75abdac82d3076be675da1714174b1fc9"
 metafile = true
 
 [[files]]
@@ -1069,11 +1019,6 @@ metafile = true
 [[files]]
 file = "mods/waterdripsound.pw.toml"
 hash = "5e7bceb15b7dbea25c7fdbd93eacbc6b234a3c20c865fa6dd85556702448ee01"
-metafile = true
-
-[[files]]
-file = "mods/waystones.pw.toml"
-hash = "0f777c428a4899af281ecec4b01970d928a5004f54623c6da7bd2bd807d2cfe6"
 metafile = true
 
 [[files]]
