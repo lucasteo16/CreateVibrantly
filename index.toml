@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks.pw.toml"
-hash = "b3f951cf2058a1933bec9a686b00612af07646ea0dd1d6416ade5594b3783884"
+hash = "9d22f41b8c0ecd99e272c6ebb678e81f9be8ee06a9797b419bb39f8fe0e23179"
 metafile = true
 
 [[files]]
