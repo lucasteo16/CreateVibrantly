@@ -307,6 +307,11 @@ hash = "01dcb29e22fa5c932b7c83329b0498826c2292453785bf717e3ad0b1ff458395"
 metafile = true
 
 [[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "b3f951cf2058a1933bec9a686b00612af07646ea0dd1d6416ade5594b3783884"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d3772ba304230f9b7f1c62ea44e1b65dd08927f1fa1170817d2665baa8c9951b"
 metafile = true
@@ -594,6 +599,11 @@ metafile = true
 [[files]]
 file = "mods/forgiving-void.pw.toml"
 hash = "69c5c1b59f9a5946cbcea6e4cfb318af9bdb43d5a24a86391f1c34b1ca845b58"
+metafile = true
+
+[[files]]
+file = "mods/forgottenrecipes.pw.toml"
+hash = "a98a3831d886e66d3c23a647af0c1cafc3b070f3cdd73f265711504e93854e07"
 metafile = true
 
 [[files]]
