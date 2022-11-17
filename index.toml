@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "b2fcb78bb22390cc1061ed153e51a8ce9770f76d94b3dc21fa2404126c6612e2"
+hash = "e09e7f94fe289b3e7eeb1790fa7df4dd7227a8c2f63369bcb92fa121603d799d"
 metafile = true
 
 [[files]]
@@ -718,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "2533e1596dc8b7e641e78d6b95f299e637f08f54aa7bdafb940818c41b09b872"
+hash = "e2647d3d7fc1f0afe27f57f8bdc4a365ad9bb770f9502844630458ceab2ade99"
 metafile = true
 
 [[files]]
