@@ -342,6 +342,11 @@ hash = "ff54075e027c8b92cd02c42e5030108cffb34358b92fd3ab4adcaf47c9d5b898"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "c98b92c96eb546872a0d203969ddba29a17f6ab0e57ff93081d81a138562e8b7"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "3d327402d68131350d2a082aa33a3c53c8f67642d342bbffddae6ec33b2262a0"
 metafile = true
@@ -467,6 +472,11 @@ hash = "d0db5554ad9f6da3788837b15ac7f026513ad1bef749936811fac19875a7db7d"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "589811220383729ea17edc4a87188130df3612be52e6abcf2deb466e5f548af0"
+metafile = true
+
+[[files]]
 file = "mods/delightful.pw.toml"
 hash = "21312550ea6783eb5de9ae365018f11594b5513aefaf64d5efed8e1459417ed7"
 metafile = true
@@ -497,6 +507,11 @@ hash = "e6a065afb79249eb86bbc6a1885d71bff74d7c62302fcc7106f89b0e6112fd87"
 metafile = true
 
 [[files]]
+file = "mods/edivadlib.pw.toml"
+hash = "38d1fd4c49da8da6251c0a481e8f93ff06430f227411d214c66b5a397753e3e8"
+metafile = true
+
+[[files]]
 file = "mods/effective-forge.pw.toml"
 hash = "9ed8c47da77c2795711a15fb742530328de8baf7cacbe02fca6ed15d55bdacce"
 metafile = true
@@ -524,6 +539,11 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "242b6fffdda44574306766d68ce440c5c1f0d81b03a13b929ea8edc68f6a720f"
+metafile = true
+
+[[files]]
+file = "mods/extrastorage.pw.toml"
+hash = "97513b37a73b67a83f0f6fe6a6ff7330dceadca7f87405e262e9476e6b3b39ab"
 metafile = true
 
 [[files]]
@@ -747,6 +767,11 @@ hash = "73b674a9b15e9815a0ad858998416986ec8bbc2a16c12b6b5860a46756e260ff"
 metafile = true
 
 [[files]]
+file = "mods/more-dragon-eggs.pw.toml"
+hash = "344c2e73fa3dfd6101d30884e2e03cb012a5f4f05d7a21b2986ad0924ecf084e"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "65847d25954b387800944c72231b44cf3eeb8ebc2f43238f39ccbd76cf9c6a4d"
 metafile = true
@@ -794,6 +819,11 @@ metafile = true
 [[files]]
 file = "mods/ore-excavation.pw.toml"
 hash = "f0584d99220f2d315552d96b87d4f13e50034a40353b95d1f2b8fda68effab85"
+metafile = true
+
+[[files]]
+file = "mods/overloaded-armor-bar.pw.toml"
+hash = "e25089f3e877528cd57c9bfa9ec3b79cf3046d68166742215e539e43ea46b10c"
 metafile = true
 
 [[files]]
@@ -964,6 +994,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "5737a971ff7d757ef27defc4e64aa3f8a052f4a594b46179e8f58584ab7f51da"
+metafile = true
+
+[[files]]
+file = "mods/swingthroughgrass.pw.toml"
+hash = "ca83d6d210d1d289fc8999c481a778a3edcf4228c9de3d280cfd86012868e30f"
 metafile = true
 
 [[files]]
