@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "126a53f1f0eab4aa00f7aefeaab6a4379761486c060e33e919ff46def8c9ca34"
+hash = "b2fcb78bb22390cc1061ed153e51a8ce9770f76d94b3dc21fa2404126c6612e2"
 metafile = true
 
 [[files]]
@@ -448,7 +448,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "4cbfd87f66183210cc29fc3d9c033f8a5ce9763208cb12c8d48814f999b4ea8d"
+hash = "2a1d1c70cf8721d0124e3312b72cc5e961b04b4228713bf62ebcd68349172f8b"
 metafile = true
 
 [[files]]
@@ -828,7 +828,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "e75824edb63e47ac4e9d57c8a1305c8d5ffd860f3c38f7b3c0e585732f5818d6"
+hash = "187871b1c3df27a1c5032cdd42f5511ffba93445811318eb4095b2fe8cb38c59"
 metafile = true
 
 [[files]]
@@ -928,7 +928,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "f0cc8b06148cfcebf0f8db1b0561a5ebc6c6f4063a5c027fc1c24f9b53c5ef36"
+hash = "14ae749bb2980cda4fb322bea3689348483c1d1109cfe203f7415166e12917d7"
 metafile = true
 
 [[files]]
@@ -993,7 +993,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "be3060a43501f1cf0063b2c85b824c833329571425df1761f570bb0bff113aa3"
+hash = "5737a971ff7d757ef27defc4e64aa3f8a052f4a594b46179e8f58584ab7f51da"
 metafile = true
 
 [[files]]
@@ -1078,7 +1078,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit-forge.pw.toml"
-hash = "f43204af9654d472c45ae9baa0552ca4c92e00324b0dfc65b2cc2c9e79150fb3"
+hash = "6652c71e66d7433abf3bd102379a06164cfaec4a987a9056b741a10d6683a82d"
 metafile = true
 
 [[files]]
