@@ -232,11 +232,6 @@ hash = "f29314b6e27525761a07f7b74802818ce3da9c51c9f6d21cb81f870121e57db2"
 metafile = true
 
 [[files]]
-file = "mods/badpackets.pw.toml"
-hash = "802880a54a5f68cd1464be842acd9a7d474a31284de1529f67366a24c1e29466"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "f094bca8f5d15e36dfc6d3e269d3524a6fea6fb67611d00605319c7eaaacf83e"
 metafile = true
@@ -697,6 +692,16 @@ hash = "2baf89f01663c240143e8c7aa9e5813f82dabbd84f38832609707d43f9e2f2a3"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "03a11f9e81942baff838307222f11b42f88e1e3a7eff098aa3908e26e3261fcb"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "431b9b4fb3f8d10044199aaa2e285a0ca61a8e8bf75bc82ea0e7838ffd19e417"
+metafile = true
+
+[[files]]
 file = "mods/jea.pw.toml"
 hash = "d1f603b419d548c7ef2a58965fa35ace4f6d63dcb0f0c3a0d0e92b6c1c1c3e87"
 metafile = true
@@ -1054,11 +1059,6 @@ metafile = true
 [[files]]
 file = "mods/waterdripsound.pw.toml"
 hash = "5e7bceb15b7dbea25c7fdbd93eacbc6b234a3c20c865fa6dd85556702448ee01"
-metafile = true
-
-[[files]]
-file = "mods/wthit-forge.pw.toml"
-hash = "6652c71e66d7433abf3bd102379a06164cfaec4a987a9056b741a10d6683a82d"
 metafile = true
 
 [[files]]
