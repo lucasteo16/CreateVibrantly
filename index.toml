@@ -57,6 +57,18 @@ file = "config/itshallnottick-common.toml"
 hash = "e6073d21f51d475e3a192fb17d0fc9f7eaf3dffaae7a5bcf5aa1f76c1af8d334"
 
 [[files]]
+file = "config/jade/jade.json"
+hash = "20639bdcdcfda3ce59532bd10a059d37193c9aa3c016eca3f5db80bdd66314e1"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "c02bad24f9f72f3a168a12f88bdb6ae4fdbacce59db18f3a9efd95d8e1f91888"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "951c6aeed6f2d198e225adcd4049c134fee09d637c766895b74224c515003915"
+
+[[files]]
 file = "config/justzoom/config.txt"
 hash = "657c824484be36d86777fe9605f7865613af6b8c9b07e8d63552662c37c2b66d"
 
@@ -123,18 +135,6 @@ hash = "68f9c8a8a6a130b2316722d91d572a66d556463d2cdfd4ed12d8efa606af17de"
 [[files]]
 file = "config/tr7zwDonorSettings.json"
 hash = "b4f660488920eac2dffd3c2208d281e92e1444e6f9c7808461a2687347c787d5"
-
-[[files]]
-file = "config/waila/blacklist.json"
-hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
-
-[[files]]
-file = "config/waila/waila.json"
-hash = "b526c4fcce98ab8b6d48709835ec54dca6b603bbd277f82abec555876defd8f7"
-
-[[files]]
-file = "config/waila/waila_plugins.json"
-hash = "e60de9a9be2e7e4370ff0b47e4d33c455fb45d29c4065db3078a63d0f876ee45"
 
 [[files]]
 file = "config/waterdripsound-client-1.toml.bak"
