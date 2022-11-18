@@ -467,13 +467,13 @@ hash = "d0db5554ad9f6da3788837b15ac7f026513ad1bef749936811fac19875a7db7d"
 metafile = true
 
 [[files]]
-file = "mods/default-options.pw.toml"
-hash = "589811220383729ea17edc4a87188130df3612be52e6abcf2deb466e5f548af0"
+file = "mods/delightful.pw.toml"
+hash = "21312550ea6783eb5de9ae365018f11594b5513aefaf64d5efed8e1459417ed7"
 metafile = true
 
 [[files]]
-file = "mods/delightful.pw.toml"
-hash = "21312550ea6783eb5de9ae365018f11594b5513aefaf64d5efed8e1459417ed7"
+file = "mods/dragon-drops-elytra.pw.toml"
+hash = "1c3bf1f3308d08e5340e8b9f62fd2e893531c1744c8f3f59bbdbba6c616089c3"
 metafile = true
 
 [[files]]
@@ -828,7 +828,7 @@ metafile = true
 
 [[files]]
 file = "mods/overloaded-armor-bar.pw.toml"
-hash = "e25089f3e877528cd57c9bfa9ec3b79cf3046d68166742215e539e43ea46b10c"
+hash = "c16030ccf3963e3a4a4e323748011e10aeef1b8a1f5a92a2e6d522338bb8ca2e"
 metafile = true
 
 [[files]]
