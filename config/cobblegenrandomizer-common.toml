@@ -1,0 +1,37 @@
+
+#General settings
+[general]
+	#Use config instead of datapack
+	use_config = true
+
+	#List settings
+	#Syntax: ["modid:block|weight"]
+	#Example: ["minecraft:stone|2","minecraft:dirt|1"]
+	#Forge tags are supported
+	[general.lists]
+		#Cobble gen
+		block_list_cobble = ["minecraft:blocks/cobblestone|60", "minecraft:blocks/coal_ore|25", "minecraft:blocks/iron_ore|20", "minecraft:blocks/redstone_ore|20", "minecraft:blocks/lapis_ore|20", "minecraft:blocks/emerald_ore|5", "minecraft:blocks/gold_ore|10", "minecraft:blocks/diamond_ore|5"]
+		#Stone gen
+		block_list_stone = ["minecraft:blocks/stone|30", "minecraft:blocks/granite|10", "minecraft:blocks/diorite|10", "minecraft:blocks/andesite|10"]
+		#Basalt gen
+		block_list_basalt = ["minecraft:blocks/basalt|60", "minecraft:blocks/blackstone|60", "minecraft:blocks/netherrack|60", "minecraft:blocks/nether_quartz_ore|30", "minecraft:blocks/nether_gold_ore|30", "minecraft:blocks/ancient_debris|1"]
+
+		#Custom settings
+		[general.lists.custom]
+			#Custom generators
+			#Syntax: [gen]
+			#Gen: [type, block, list]
+			#Type: cobblestone, stone
+			#Block: resource location of the block below the generated block
+			#List: see List settings
+			#Examples:
+			#custom_generators = [
+			#   ["cobblestone", "minecraft:diamond_block", ["minecraft:diamond_block"]],
+			#   ["cobblestone", "minecraft:dirt", ["forge:dirt"]],
+			#   ["cobblestone", "minecraft:white_wool", ["minecraft:wool"]]]
+			custom_generators = [
+				["cobblestone", "minecraft:honey_block", ["create:limestone"]],
+				["stone", "minecraft:honey_block", ["create:limestone"]], 
+				["cobblestone", "create_confectionery:chocolate_bricks", ["create:scoria"]], 
+				["stone", "create_confectionery:chocolate_bricks", ["create:scoria"]]
+			]
