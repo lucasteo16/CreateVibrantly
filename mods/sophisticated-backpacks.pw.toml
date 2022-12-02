@@ -1,13 +1,13 @@
 name = "Sophisticated Backpacks"
-filename = "sophisticatedbackpacks-1.19.2-3.18.29.719.jar"
+filename = "sophisticatedbackpacks-1.19.2-3.18.33.742.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "372d94f382a4880901f3c768f89df7ecfd51173b"
+hash = "a7c7893bd918df71c4c0ecfdfa2db5c1fea0525c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4006090
+file-id = 4124726
 project-id = 422301
